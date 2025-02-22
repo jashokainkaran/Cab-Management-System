@@ -1,0 +1,14 @@
+# Ignore build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.exe
+*.dll
+
+# Ignore Visual Studio settings
+*.csproj.user
+*.csproj.DotSettings
