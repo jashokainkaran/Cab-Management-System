@@ -7,7 +7,7 @@ Welcome to the Cab Management System, where we make booking rides smoother than 
 1️⃣ Clone the Repo
 Ready to hit the road? First, grab the code! Open your terminal and run:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/jashokainkaran/Cab-Management-System.git
 
 Navigate into the folder:
 
